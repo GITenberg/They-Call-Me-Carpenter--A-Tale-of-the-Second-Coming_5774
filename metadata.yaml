@@ -1,0 +1,35 @@
+_repo: They-Call-Me-Carpenter--A-Tale-of-the-Second-Coming_5774
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sinclair, Upton
+    aliases:
+    - Fitch, Clarke
+    - Sinclair, Upton Beall
+    - Garrison, Frederick
+    birthdate: 1878
+    deathdate: 1968
+    gutenberg_agent_id: '88'
+    url: http://www.gutenberg.org/2009/agents/88
+    wikipedia: http://en.wikipedia.org/wiki/Upton_Sinclair
+description: Although Sinclair had written very critically of organized religion in
+  his book The Profits of Religion, in this novel he takes a more human approach to
+  the story of Christ. Of course, the Christ character is repulsed by the show of
+  wealth he finds in 1920s California culture, which ultimately contributes to his
+  leaving. In that sense, They Call Me Carpenter fits well into the canon of Upton
+  Sinclair.
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5774'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Hollywood (Los Angeles, Calif.) -- Fiction'
+- !lcsh 'Jesus Christ -- Fiction'
+- GITenberg
+title: 'They Call Me Carpenter: A Tale of the Second Coming'
+url: http://www.gutenberg.org/ebooks/5774
