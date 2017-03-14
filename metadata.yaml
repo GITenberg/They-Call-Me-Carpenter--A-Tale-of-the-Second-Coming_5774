@@ -1,5 +1,8 @@
 _repo: They-Call-Me-Carpenter--A-Tale-of-the-Second-Coming_5774
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Sinclair, Upton
@@ -18,6 +21,8 @@ description: Although Sinclair had written very critically of organized religion
   wealth he finds in 1920s California culture, which ultimately contributes to his
   leaving. In that sense, They Call Me Carpenter fits well into the canon of Upton
   Sinclair.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5774#They-Call-Me-Carpenter--A-Tale-of-the-Second-Coming
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
 identifiers:
